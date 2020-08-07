@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"Q:/ToonTanks/.vscode": true,
+		"Q:/ToonTanks/Content": true,
+		"Q:/ToonTanks/DerivedDataCache": true,
+		"Q:/ToonTanks/Intermediate": true,
+		"Q:/ToonTanks/Saved": true
+	}
+}
